@@ -25,6 +25,7 @@ And many many others.
 
 ## Stack
 
-- Rust
+- Java
+- Spring Boot
 - PostgreSQL
 - Docker
